@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![CircleCI](https://circleci.com/gh/Wchindanai/CalcApp.svg?style=svg)](https://circleci.com/gh/Wchindanai/CalcApp)
 
 ## Available Scripts
 
